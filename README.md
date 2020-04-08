@@ -1,2 +1,2 @@
 # seminar_companion
-script for seminars
+This is a companion script for seminars where students are required to write a literature review.
