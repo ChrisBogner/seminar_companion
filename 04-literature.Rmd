@@ -1,3 +1,17 @@
-# Literature
+# Helpful literature
 
-Here is a review of existing methods.
+To help you writing your literature review, you should consult the suggested reading material. It will cover different aspects of writing. @Beinke2016 provides a very general guide to writing a seminar paper.
+
+## How to write a literature review
+- @Pautasso2013: Ten Simple Rules for Writing a Literature Review
+
+## How to improve your scientific English
+- @Skern2011: Writing Scientific English. You can access this book via the UoC library. Be sure to activate your [VPN client](https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn) when accessing from outside the university.
+
+## How to prepare and give a good scientific presentation
+The general structure of your presentation is given and fixed (see chapter \@ref(presentation)). For more detailed information, you can find helpful web resources by Nature, for example
+
+- Scientific presentations: A cheat sheet: http://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/
+
+- 10 biggest pitfalls: http://blogs.nature.com/naturejobs/2016/02/10/a-david-letterman-like-countdown-to-the-10-biggest-pitfalls-in-scientific-presentations/
+

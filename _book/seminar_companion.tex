@@ -73,6 +73,32 @@
   \thm@postskip=\thm@preskip
 }
 \makeatother
+
+
+\usepackage{xcolor}
+\usepackage{mdframed}
+\setlength{\fboxsep}{.8em}
+
+%\definecolor{shadecolor}{rgb}{0.94, 0.97, 1.0}
+
+\newenvironment{rmdinfo}{
+  \definecolor{info}{rgb}{0.94, 0.97, 1.0}  %  	Alice blue
+  \color{black}
+  \begin{mdframed}[backgroundcolor = info]}
+ {\end{mdframed}}
+
+\newenvironment{rmdalert}{
+  \definecolor{alert}{rgb}{0.96, 0.76, 0.76}  % babypink
+  \color{black}
+  \begin{mdframed}[backgroundcolor = alert]}
+ {\end{mdframed}}
+
+
+\newenvironment{rmdexample}{
+  \definecolor{example}{rgb}{0.0, 0.8, 0.6}  % Caribbean green
+  \color{black}
+  \begin{mdframed}[backgroundcolor = example]}
+ {\end{mdframed}}
 \usepackage{etoolbox}
 \makeatletter
 \providecommand{\subtitle}[1]{% add subtitle to \maketitle
@@ -86,7 +112,7 @@
 \providecommand{\subtitle}[1]{}
 \subtitle{Seminar spring term 2020}
 \author{Christina Bogner}
-\date{2020-04-08}
+\date{Last updated: 10 April, 2020}
 
 \begin{document}
 \maketitle
@@ -98,7 +124,14 @@
 \hypertarget{prerequisites}{%
 \chapter{Prerequisites}\label{prerequisites}}
 
-The corona virus pandemic impacts our lives and changes the way we teach and learn. This course will start as an online course and depending on the situation will or will not turn into a traditional seminar. Please be patient if not all activities turn out to be successful and not all technical tools function as desired. We all will do our best to support you in your curriculum.
+\begin{rmdinfo}
+The corona virus pandemic impacts our lives and changes the way we teach
+and learn. This course will start as an online course and depending on
+the situation will or will not turn into a traditional seminar. Please
+be patient if not all activities turn out to be successful and not all
+technical tools function as desired. We all will do our best to support
+you in your curriculum.
+\end{rmdinfo}
 
 In this seminar we will use different tools for communication:
 
@@ -112,6 +145,20 @@ In this seminar we will use different tools for communication:
 \item
   \textbf{Zoom}: the video conference tool for live sessions. The link to the zoom meeting room and detailed instructions can be found on the ILIAS website.
 \end{enumerate}
+
+In this companion, we will use blocks to highlight particular content
+
+\begin{rmdinfo}
+This is an info block.
+\end{rmdinfo}
+
+\begin{rmdalert}
+This is an alert block.
+\end{rmdalert}
+
+\begin{rmdexample}
+This is an example block.
+\end{rmdexample}
 
 \hypertarget{intro}{%
 \chapter{Introduction}\label{intro}}
@@ -164,7 +211,7 @@ This course is part of either \emph{Fachinhaltliche Vertiefung I} or \emph{Fachi
 \begin{itemize}
 \tightlist
 \item
-  Be on time.
+  Be on time for live meetings and for submitting assignments.
 \item
   Be prepared for an active participation (do the assignments!)
 \item
@@ -183,7 +230,7 @@ Be patient with the new digital format of the course and your lecturer! 😄
 \hypertarget{presenting-student}{%
 \section{Presenting student}\label{presenting-student}}
 
-We will establish more detailed criteria of a good scientific presentation during the seminar. Thus, the following requirements are general and a sctrict minimum:
+We will establish more detailed criteria of a good scientific presentation during the seminar. Thus, the following requirements are general and a strict minimum:
 
 \textbf{Content}
 
@@ -196,29 +243,182 @@ We will establish more detailed criteria of a good scientific presentation durin
 \item
   Body of your presentation: Here, you give information on your topic
 \item
-  Ciritical evaluation or discussion
+  Critical evaluation or discussion
+\item
+  Take-home messages: Summarize the most important aspects
 \item
   References: you prepare, but do not show this slide
 \end{itemize}
 
+\begin{rmdalert}
+Cite the literature and all figures/tables/data you use correctly!
+\end{rmdalert}
+
 \textbf{Time}
-You have 15 minutes to present your topic. Afterwords, we will have a group discussion.
+
+You have \textbf{15 minutes} to present your topic. Afterwords, we will have a group discussion.
 
 \textbf{Feedback}
-You will receive feedback from your peers in form of one-minute papers.
+
+You will receive feedback from your peers in form of one-minute papers through campuswire. Therefore, in \texttt{class\ feed}, post the title of your presentation. Your peers will respond to this post with their feedback.
 
 \hypertarget{peers}{%
 \section{Peers}\label{peers}}
 
+Listen carefully and critically to the presenter and provide \emph{anonymous} feedback through campuswire. Structure your feedback as follows:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The main points of the presentation: Summarize what you understood in 2--3 sentences. The presenter should see whether his/her take-home messages were received.
+\item
+  State which concrete issues you observed (see feedback rules below)
+\item
+  Suggest concrete ways to improve and further aspects to include in the review paper.
+\end{enumerate}
+
+\hypertarget{feedback-rules}{%
+\section{Feedback rules}\label{feedback-rules}}
+
+\hypertarget{how-to-give-feedback}{%
+\subsection{How to give feedback}\label{how-to-give-feedback}}
+
+A peer feedback should always be provided as a \emph{personal opinion} and communicated accordingly. A peer feedback, both written and oral is
+
+\begin{itemize}
+\tightlist
+\item
+  respectful
+\item
+  me-centered
+\item
+  addresses a concrete observation
+\item
+  tells what it did to the feedback provider
+\item
+  provides a doable suggestion
+\end{itemize}
+
+\begin{rmdexample}
+On slide 4, you explained that carbon sequestration in the soil depended
+on temperature. I am not familiar with this and did not understand the
+relationship to climate change. Could you please explain this in your
+paper in more detail. For your paper, you could also include the aspect
+of increasing CO\textsubscript{2} in the atmosphere and ocean
+acidification.
+\end{rmdexample}
+
+\hypertarget{how-to-receive-feedback}{%
+\subsection{How to receive feedback}\label{how-to-receive-feedback}}
+
+Remember that the feedback is a \emph{personal opinion}. Therefore,
+
+\begin{itemize}
+\tightlist
+\item
+  don't take it personally
+\item
+  don't apologize
+\item
+  take it and say thank you
+\item
+  you decide whether you want to implement this feedback
+\end{itemize}
+
 \hypertarget{literature-review}{%
 \chapter{Literature review}\label{literature-review}}
 
-We have finished a nice book.
+\hypertarget{literature-search}{%
+\section{Literature search}\label{literature-search}}
 
-\hypertarget{literature}{%
-\chapter{Literature}\label{literature}}
+Use the literature data base \href{https://apps.webofknowledge.com/}{Web of Science} or \href{https://scholar.google.com/}{Google Scholar} to find your literature. You will have a blended learning unit on how to use the data bases. For \href{https://apps.webofknowledge.com/}{Web of Science}, either create an account and link it to UoC or activate your \href{https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn}{VPN client} when accessing from outside the university.
 
-Here is a review of existing methods.
+\hypertarget{general-structure-and-length-of-your-review}{%
+\section{General structure and length of your review}\label{general-structure-and-length-of-your-review}}
+
+Your review must be structured as follows:
+
+\begin{itemize}
+\tightlist
+\item
+  Title page: contains your name, the title of the seminar, the name of your lecturer and the submission date
+\item
+  Abstract
+\item
+  Key words
+\item
+  Table of content
+\item
+  Introduction
+\item
+  Method
+\item
+  Main part
+\item
+  Discussion
+\item
+  Conclusions
+\item
+  References
+\end{itemize}
+
+Your review should be between 3000 and 6000 words in the main part (i.e.~without abstract, table of contents, references etc.).
+
+\hypertarget{software}{%
+\section{Software}\label{software}}
+
+You can select any free or commercial word processing software, e.g. \href{https://www.libreoffice.org/}{Libre Office}, \href{http://www.openoffice.org/de/}{Open Office}, \href{https://www.latex-project.org/}{LaTeX} or \href{https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/microsoft/office-fuer-studierende}{Word}. However, be sure to correctly \textbf{connect your word processor to your bibliography manager}. Do not copy and paste references manually because this is very error prone and you risk to forget citations.
+
+You are also free to select any reference management software. The free \href{https://www.zotero.org/}{Zotero} is recommended, but the UoC also provides licences for \href{https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/citavi}{Citavi} and \href{https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/endnote}{Endnote} to manage your bibliography.
+
+In case you decide to use Zotero, there is a helpful \href{https://www.youtube.com/watch?v=Hm0TboOcAuM\&list=PLScSkCQ_d7EOSU6n682bwjTC6GjY_ihmM}{video tutorial} explaining how to use it and how to connect it to your word processing software.
+
+We will use a citation style close to the one used by the journal Geomorphology. You can download the style for Zotero \href{https://www.zotero.org/styles?q=elsevier\&dependent=0}{here} and for Endnote \href{https://endnote.com/style_download/geomorphology/}{here}. If you want to use Citavi, you have to \href{https://www1.citavi.com/sub/manual5/en/cse_finding_citation_styles.html}{find} an appropriate style yourself.
+
+\hypertarget{plagiarism}{%
+\section{Plagiarism}\label{plagiarism}}
+
+You will have a blended learning unit on plagiarism and how to avoid it. We will exercise paraphrasing during the seminar.
+
+I will check your paper draft for plagiarism with \href{https://www.turnitin.com/}{turnitin} and give you detailed feedback. The final paper will also be checked for plagiarism. Plagiarism will result in a worse grade and substantial plagiarism in failing the seminar.
+
+\hypertarget{helpful-literature}{%
+\chapter{Helpful literature}\label{helpful-literature}}
+
+To help you writing your literature review, you should consult the suggested reading material. It will cover different aspects of writing. \citet{Beinke2016} provides a very general guide to writing a seminar paper.
+
+\hypertarget{how-to-write-a-literature-review}{%
+\section{How to write a literature review}\label{how-to-write-a-literature-review}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Pautasso2013}: Ten Simple Rules for Writing a Literature Review
+\end{itemize}
+
+\hypertarget{how-to-improve-your-scientific-english}{%
+\section{How to improve your scientific English}\label{how-to-improve-your-scientific-english}}
+
+\begin{itemize}
+\tightlist
+\item
+  \citet{Skern2011}: Writing Scientific English. You can access this book via the UoC library. Be sure to activate your \href{https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn}{VPN client} when accessing from outside the university.
+\end{itemize}
+
+\hypertarget{how-to-prepare-and-give-a-good-scientific-presentation}{%
+\section{How to prepare and give a good scientific presentation}\label{how-to-prepare-and-give-a-good-scientific-presentation}}
+
+The general structure of your presentation is given and fixed (see chapter \ref{presentation}). For more detailed information, you can find helpful web resources by Nature, for example
+
+\begin{itemize}
+\item
+  Scientific presentations: A cheat sheet: \url{http://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/}
+\item
+  10 biggest pitfalls: \url{http://blogs.nature.com/naturejobs/2016/02/10/a-david-letterman-like-countdown-to-the-10-biggest-pitfalls-in-scientific-presentations/}
+\end{itemize}
+
+\hypertarget{refs}{}
 
 \bibliography{book.bib,packages.bib}
 

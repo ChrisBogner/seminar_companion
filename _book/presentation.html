@@ -24,7 +24,6 @@
 <meta name="author" content="Christina Bogner" />
 
 
-<meta name="date" content="2020-04-10" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -54,6 +53,7 @@
 
 
 <link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="font-awesome.min.css" type="text/css" />
 </head>
 
 <body>
@@ -79,12 +79,21 @@
 <li class="chapter" data-level="3.1" data-path="presentation.html"><a href="presentation.html#presenting-student"><i class="fa fa-check"></i><b>3.1</b> Presenting student</a></li>
 <li class="chapter" data-level="3.2" data-path="presentation.html"><a href="presentation.html#peers"><i class="fa fa-check"></i><b>3.2</b> Peers</a></li>
 <li class="chapter" data-level="3.3" data-path="presentation.html"><a href="presentation.html#feedback-rules"><i class="fa fa-check"></i><b>3.3</b> Feedback rules</a><ul>
-<li class="chapter" data-level="3.3.1" data-path="presentation.html"><a href="presentation.html#how-to-geive-feedback"><i class="fa fa-check"></i><b>3.3.1</b> How to geive feedback</a></li>
+<li class="chapter" data-level="3.3.1" data-path="presentation.html"><a href="presentation.html#how-to-give-feedback"><i class="fa fa-check"></i><b>3.3.1</b> How to give feedback</a></li>
 <li class="chapter" data-level="3.3.2" data-path="presentation.html"><a href="presentation.html#how-to-receive-feedback"><i class="fa fa-check"></i><b>3.3.2</b> How to receive feedback</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="literature-review.html"><a href="literature-review.html"><i class="fa fa-check"></i><b>4</b> Literature review</a></li>
-<li class="chapter" data-level="5" data-path="literature.html"><a href="literature.html"><i class="fa fa-check"></i><b>5</b> Literature</a></li>
+<li class="chapter" data-level="4" data-path="literature-review.html"><a href="literature-review.html"><i class="fa fa-check"></i><b>4</b> Literature review</a><ul>
+<li class="chapter" data-level="4.1" data-path="literature-review.html"><a href="literature-review.html#literature-search"><i class="fa fa-check"></i><b>4.1</b> Literature search</a></li>
+<li class="chapter" data-level="4.2" data-path="literature-review.html"><a href="literature-review.html#general-structure-and-length-of-your-review"><i class="fa fa-check"></i><b>4.2</b> General structure and length of your review</a></li>
+<li class="chapter" data-level="4.3" data-path="literature-review.html"><a href="literature-review.html#software"><i class="fa fa-check"></i><b>4.3</b> Software</a></li>
+<li class="chapter" data-level="4.4" data-path="literature-review.html"><a href="literature-review.html#plagiarism"><i class="fa fa-check"></i><b>4.4</b> Plagiarism</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="helpful-literature.html"><a href="helpful-literature.html"><i class="fa fa-check"></i><b>5</b> Helpful literature</a><ul>
+<li class="chapter" data-level="5.1" data-path="helpful-literature.html"><a href="helpful-literature.html#how-to-write-a-literature-review"><i class="fa fa-check"></i><b>5.1</b> How to write a literature review</a></li>
+<li class="chapter" data-level="5.2" data-path="helpful-literature.html"><a href="helpful-literature.html#how-to-improve-your-scientific-english"><i class="fa fa-check"></i><b>5.2</b> How to improve your scientific English</a></li>
+<li class="chapter" data-level="5.3" data-path="helpful-literature.html"><a href="helpful-literature.html#how-to-prepare-and-give-a-good-scientific-presentation"><i class="fa fa-check"></i><b>5.3</b> How to prepare and give a good scientific presentation</a></li>
+</ul></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
@@ -110,21 +119,20 @@
 <h1><span class="header-section-number">Chapter 3</span> Presentation</h1>
 <div id="presenting-student" class="section level2">
 <h2><span class="header-section-number">3.1</span> Presenting student</h2>
-<p>We will establish more detailed criteria of a good scientific presentation during the seminar. Thus, the following requirements are general and a sctrict minimum:</p>
+<p>We will establish more detailed criteria of a good scientific presentation during the seminar. Thus, the following requirements are general and a strict minimum:</p>
 <p><strong>Content</strong></p>
 <ul>
 <li>Title slide (title, your name, title of the seminar)</li>
 <li>Motivation slide: Why is this topic relevant and why does it need a critical review</li>
 <li>Body of your presentation: Here, you give information on your topic</li>
-<li>Ciritical evaluation or discussion</li>
+<li>Critical evaluation or discussion</li>
 <li>Take-home messages: Summarize the most important aspects</li>
 <li>References: you prepare, but do not show this slide</li>
 </ul>
-<style>
-div.red { background-color:#ffe6f0; border-radius: 5px; padding: 20px;}
-</style>
-<div class="red">
-<p>Remember: Cite the literature and all figures/tables/data you use correctly!</p>
+<div class="rmdalert">
+<p>
+Cite the literature and all figures/tables/data you use correctly!
+</p>
 </div>
 <p><strong>Time</strong></p>
 <p>You have <strong>15 minutes</strong> to present your topic. Afterwords, we will have a group discussion.</p>
@@ -133,30 +141,34 @@ div.red { background-color:#ffe6f0; border-radius: 5px; padding: 20px;}
 </div>
 <div id="peers" class="section level2">
 <h2><span class="header-section-number">3.2</span> Peers</h2>
-<p>Listen carefully and critically to the presenter and provide <em>anonymous</em> feedack through campuswire. Stucture your feedback as follows:</p>
+<p>Listen carefully and critically to the presenter and provide <em>anonymous</em> feedback through campuswire. Structure your feedback as follows:</p>
 <ol style="list-style-type: decimal">
 <li>The main points of the presentation: Summarize what you understood in 2–3 sentences. The presenter should see whether his/her take-home messages were received.</li>
-<li></li>
+<li>State which concrete issues you observed (see feedback rules below)</li>
+<li>Suggest concrete ways to improve and further aspects to include in the review paper.</li>
 </ol>
 </div>
 <div id="feedback-rules" class="section level2">
 <h2><span class="header-section-number">3.3</span> Feedback rules</h2>
-<div id="how-to-geive-feedback" class="section level3">
-<h3><span class="header-section-number">3.3.1</span> How to geive feedback</h3>
+<div id="how-to-give-feedback" class="section level3">
+<h3><span class="header-section-number">3.3.1</span> How to give feedback</h3>
 <p>A peer feedback should always be provided as a <em>personal opinion</em> and communicated accordingly. A peer feedback, both written and oral is</p>
 <ul>
 <li>respectful</li>
-<li>me-centred</li>
+<li>me-centered</li>
 <li>addresses a concrete observation</li>
 <li>tells what it did to the feedback provider</li>
 <li>provides a doable suggestion</li>
 </ul>
-<p><strong>Example</strong></p>
-<p>On slide 4, you exlained that carbon sequestration in the soil depended on temperature. I am not familiar with this and did not understand the relationship to climate change. Could you please explain this in your paper in more detail. For your paper, you could also include the aspect of increasing CO<sub>2</sub> in the atmosphere and ocean acidification.</p>
+<div class="rmdexample">
+<p>
+On slide 4, you explained that carbon sequestration in the soil depended on temperature. I am not familiar with this and did not understand the relationship to climate change. Could you please explain this in your paper in more detail. For your paper, you could also include the aspect of increasing CO<sub>2</sub> in the atmosphere and ocean acidification.
+</p>
+</div>
 </div>
 <div id="how-to-receive-feedback" class="section level3">
 <h3><span class="header-section-number">3.3.2</span> How to receive feedback</h3>
-<p>Remember that the feedback is a <em>presonal opinion</em>. Therefore,</p>
+<p>Remember that the feedback is a <em>personal opinion</em>. Therefore,</p>
 <ul>
 <li>don’t take it personally</li>
 <li>don’t apologize</li>

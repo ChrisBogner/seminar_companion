@@ -1,3 +1,36 @@
 # Literature review
 
-We have finished a nice book.
+## Literature search
+Use the literature data base [Web of Science](https://apps.webofknowledge.com/) or [Google Scholar](https://scholar.google.com/) to find your literature. You will have a blended learning unit on how to use the data bases. For [Web of Science](https://apps.webofknowledge.com/), either create an account and link it to UoC or activate your [VPN client](https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn) when accessing from outside the university.
+
+## General structure and length of your review
+
+Your review must be structured as follows:
+
+- Title page: contains your name, the title of the seminar, the name of your lecturer and the submission date
+- Abstract
+- Key words
+- Table of content
+- Introduction
+- Method
+- Main part
+- Discussion
+- Conclusions
+- References
+
+Your review should be between 3000 and 6000 words in the main part (i.e. without abstract, table of contents, references etc.). 
+
+## Software
+You can select any free or commercial word processing software, e.g. [Libre Office](https://www.libreoffice.org/), [Open Office](http://www.openoffice.org/de/), [LaTeX](https://www.latex-project.org/) or [Word](https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/microsoft/office-fuer-studierende). However, be sure to correctly **connect your word processor to your bibliography manager**. Do not copy and paste references manually because this is very error prone and you risk to forget citations.
+
+You are also free to select any reference management software. The free [Zotero](https://www.zotero.org/) is recommended, but the UoC also provides licences for [Citavi](https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/citavi) and [Endnote](https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/endnote) to manage your bibliography.
+
+In case you decide to use Zotero, there is a helpful [video tutorial](https://www.youtube.com/watch?v=Hm0TboOcAuM&list=PLScSkCQ_d7EOSU6n682bwjTC6GjY_ihmM) explaining how to use it and how to connect it to your word processing software.
+
+We will use a citation style close to the one used by the journal Geomorphology. You can download the style for Zotero [here](https://www.zotero.org/styles?q=elsevier&dependent=0) and for Endnote [here](https://endnote.com/style_download/geomorphology/). If you want to use Citavi, you have to [find](https://www1.citavi.com/sub/manual5/en/cse_finding_citation_styles.html) an appropriate style yourself.
+
+## Plagiarism
+You will have a blended learning unit on plagiarism and how to avoid it. We will exercise paraphrasing during the seminar.
+
+I will check your paper draft for plagiarism with [turnitin](https://www.turnitin.com/) and give you detailed feedback. The final paper will also be checked for plagiarism. Plagiarism will result in a worse grade and substantial plagiarism in failing the seminar.
+
