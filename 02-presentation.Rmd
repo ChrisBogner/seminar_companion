@@ -11,13 +11,55 @@ We will establish more detailed criteria of a good scientific presentation durin
 - Motivation slide: Why is this topic relevant and why does it need a critical review
 - Body of your presentation: Here, you give information on your topic
 - Ciritical evaluation or discussion
+- Take-home messages: Summarize the most important aspects
 - References: you prepare, but do not show this slide
 
+<style>
+div.red { background-color:#ffe6f0; border-radius: 5px; padding: 20px;}
+</style>
+<div class = "red">
+Remember: Cite the literature and all figures/tables/data you use correctly!
+</div>
+
+
 **Time**
-You have 15 minutes to present your topic. Afterwords, we will have a group discussion.
+
+You have **15 minutes** to present your topic. Afterwords, we will have a group discussion.
 
 **Feedback**
-You will receive feedback from your peers in form of one-minute papers.
+
+You will receive feedback from your peers in form of one-minute papers through campuswire. Therefore, in `class feed`, post the title of your presentation. Your peers will respond to this post with their feedback.
 
 
 ## Peers
+Listen carefully and critically to the presenter and provide *anonymous* feedack through campuswire. Stucture your feedback as follows:
+
+1. The main points of the presentation: Summarize what you understood in 2--3 sentences. The presenter should see whether his/her take-home messages were received.
+2. 
+
+
+## Feedback rules
+### How to geive feedback
+A peer feedback should always be provided as a *personal opinion* and communicated accordingly. A peer feedback, both written and oral is
+
+- respectful
+- me-centred
+- addresses a concrete observation
+- tells what it did to the feedback provider
+- provides a doable suggestion
+
+
+**Example**
+
+On slide 4, you exlained that carbon sequestration in the soil depended on temperature. I am not familiar with this and did not understand the relationship to climate change. Could you please explain this in your paper in more detail. For your paper, you could also include the aspect of increasing CO~2~ in the atmosphere and ocean acidification.
+
+### How to receive feedback
+Remember that the feedback is a *presonal opinion*. Therefore,
+
+- don't take it personally
+- don't apologize
+- take it and say thank you
+- you decide whether you want to implement this feedback
+
+
+
