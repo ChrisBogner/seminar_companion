@@ -1,10 +1,11 @@
 --- 
+knit: "bookdown::render_book"
 title: "Current Topics in Ecosystem Research"
-subtitle: "Seminar spring term 2020"
+subtitle: "Seminar summer term 2021"
 author: "Christina Bogner"
-date: "Last updated: `r format(Sys.time(), '%d %B, %Y')`"
+date: "Last updated: `r format(Sys.time(), '%Y-%m-%d')`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+#output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -13,10 +14,10 @@ github-repo: https://github.com/ChrisBogner/seminar_companion.git
 description: "This is companion book for the seminars of the working group Ecosystem Research"
 ---
 
-# Prerequisites
+# Prerequisites {.unnumbered}
 
 ```{block, type='rmdinfo'}
-The corona virus pandemic impacts our lives and changes the way we teach and learn. This course will start as an online course and depending on the situation will or will not turn into a traditional seminar. Please be patient if not all activities turn out to be successful and not all technical tools function as desired. We all will do our best to support you in your curriculum.
+The corona virus pandemic impacts our lives and changes the way we teach and learn. This course will be held online. Please be patient if not all activities turn out to be successful and not all technical tools function as desired. We all will do our best to support you in your curriculum.
 ```
 
 In this seminar we will use different tools for communication:
@@ -43,6 +44,9 @@ This is an alert block.
 This is an example block.
 ```
 
+## Where has this course been taught? {.unnumbered}
+
+- University of Cologne, summer term 2020 for MSc Geography
 
 
 <!--chapter:end:index.Rmd-->
