@@ -1,6 +1,7 @@
 bookdown::bs4_book:
   theme:
-    primary: "#637238"
+    primary: "#0166ff"
+  css: [style.css, font-awesome.min.css]
 
 bookdown::gitbook:
   css: [style.css, font-awesome.min.css]
