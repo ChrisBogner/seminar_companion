@@ -18,7 +18,7 @@ Your review must be structured as follows:
 - Conclusions
 - References
 
-Your review should be between 3000 and 6000 words in the main part (i.e. without abstract, table of contents, references etc.). 
+Your review should be between 3000 and 4000 words in the main part (i.e. without abstract, table of contents, references etc.). 
 
 ## Software {#software}
 You can select any free or commercial word processing software, e.g. [Libre Office](https://www.libreoffice.org/), [Open Office](http://www.openoffice.org/de/), [LaTeX](https://www.latex-project.org/) or [Word](https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/microsoft/office-fuer-studierende). However, be sure to correctly **connect your word processor to your bibliography manager**. Do not copy and paste references manually because this is very error prone and you risk to forget citations.
