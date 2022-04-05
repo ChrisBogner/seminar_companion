@@ -2,19 +2,19 @@
 
 ## Basics of academic writing
 
-Why do you write and who is your audience?
+Why do you write, and who is your audience?
 
 ### Summarize with your own words
-The goal of a review is to digest many single papers and to extract common patterns, contradictory results and in the end new inside. Don't line up paper-by-paper in your review and state single results. Read, digest, summarize and extract the information for the reader. Take her by the hand and lead her through what you have discovered in the respective field of your review.
+The goal of a review is to read and understand scientific papers and to extract common patterns, contradictory results and in the end new inside. Don't line up paper-by-paper in your review and state single results. Read, digest, summarize and extract the information for the reader. Take her by the hand and lead her through what you have discovered in the respective field of your review.
 
 ### Paraphrasing of longer texts
-You must reference every sentence you paraphrase or idea you take from others' work must. The reader should be able to distinguish between your ideas and thoughts and others' contributions. To avoid placing references after every sentence you paraphrase, you might use the following style:
+You must reference every sentence you paraphrase or idea you take from others' work. The reader should be able to distinguish between your ideas and others' contributions. To avoid placing references after every sentence you paraphrase, you might use the following style:
 
 ```{block, type = 'rmdexample'}
 Agricultural fields can be contaminated by microplastics (**reference**). Because this issue is global rather than local, **X and Y** suggest to implement a global monitoring program to tackle micropalstic contamination. We must reduce the production of one-way plastics, so **the same authors**, to decrease the formation of new microplastics in the future.
 ```
 
-It is clear that all the content comes from X and Y although the reference itself appears only once in the text.
+It is clear that all the content comes from X and Y, although the reference itself appears only once in the text.
 
 Other helpful expressions for paraphrasing:
 
@@ -24,7 +24,7 @@ Other helpful expressions for paraphrasing:
 - X and Y suggest $\dots$
 - this result is also supported by X and Y (reference)
 
-**Paraphrasing of longer texts must remain an exception**. Better try to summarize the information with your own words (see above). This is exactly what a literature review is about!
+**Paraphrasing of longer texts must remain an exception**. Better try to summarize the information with your own words (see above). This is precisely what a literature review is about!
 
 ## How to write clear (scientific) English?
 
@@ -40,7 +40,7 @@ Other helpful expressions for paraphrasing:
 7. Omit unnecessary words
 8. Read, think, write, read again and think again
 
-**Excercises**
+**Exercises**
 
 Read chapter 2 in @Skern2019 and do the exercises. Compare your solutions to his suggestions.
 

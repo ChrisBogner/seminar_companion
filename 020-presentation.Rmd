@@ -26,7 +26,7 @@ You have **10 minutes** to present your topic. Afterwards, we will have a group 
 
 **Feedback**
 
-You will receive feedback from your peers in form of one-minute papers through campuswire. Therefore, in `class feed`, post the title of your presentation. Your peers will respond to this post with their feedback.
+You will receive feedback from your peers in the form of one-minute papers through campuswire. Therefore, in `class feed`, post the title of your presentation. Your peers will respond to this post with their feedback.
 
 
 ## Peers
@@ -39,7 +39,7 @@ Listen carefully and critically to the presenter and provide *anonymous* feedbac
 
 ## Feedback rules
 ### How to give feedback
-A peer feedback should always be provided as a *personal opinion* and communicated accordingly. A peer feedback, both written and oral is
+A peer feedback should always be provided as an *opinion* and communicated accordingly. A peer feedback, both written and oral is
 
 - respectful
 - me-centered
@@ -52,7 +52,7 @@ On slide 4, you explained that carbon sequestration in the soil depended on temp
 ```
 
 ### How to receive feedback
-Remember that the feedback is a *personal opinion*. Therefore,
+Remember that the feedback is an *opinion*. Therefore,
 
 - don't take it personally
 - don't apologize

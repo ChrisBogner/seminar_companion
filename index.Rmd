@@ -1,7 +1,7 @@
 --- 
 knit: "bookdown::render_book"
 title: "Current Topics in Ecosystem Research"
-subtitle: "Seminar summer term 2021"
+subtitle: "Seminar summer term 2022"
 author: "Christina Bogner"
 date: "Last updated: `r format(Sys.time(), '%Y-%m-%d')`"
 site: bookdown::bookdown_site
@@ -17,16 +17,17 @@ description: "This is companion book for the seminars of the working group Ecosy
 # Prerequisites {.unnumbered}
 
 ```{block, type='rmdinfo'}
-The corona virus pandemic impacts our lives and changes the way we teach and learn. This course will be held online. Please be patient if not all activities turn out to be successful and not all technical tools function as desired. We all will do our best to support you in your curriculum.
+The corona virus pandemic still impacts our lives and changes the way we teach and learn. This course will be held in person, I hope we are back to nearly normal. We learnt a lot during the online-teaching phase and some of the tools proved useful. Thus, I will try to move some of them into the in-person phase.
 ```
 
 In this seminar we will use different tools for communication:
 
-1. **ILIAS**: the e-learning platform of the university. You should have been registered automatically for the course.
-2. **Campuswire**: the online chat and communication platform. You should have received an invitation to join.
-3. **Zoom**: the video conference tool for live sessions. The link to the zoom meeting room and detailed instructions can be found on the ILIAS website.
+**ILIAS**: the e-learning platform of the university. You should have been registered automatically for the course.
 
-In this companion, we will use blocks to highlight particular content
+**Campuswire**: the online chat and communication platform. You should have received an invitation to join.
+
+
+In this companion, I will use blocks to highlight particular content
 
 ```{block, type='rmdinfo'}
 This is an info block.
@@ -46,5 +47,5 @@ This is an example block.
 
 ## Where has this course been taught? {.unnumbered}
 
-- University of Cologne, summer term 2020 for MSc Geography
+- University of Cologne, summer term 2020 for M.Sc. Geography
 

@@ -1,7 +1,7 @@
 # Introduction {#intro}
 ## Curriculum and grading
 
-This course is part of either *Fachinhaltliche Vertiefung I* or *Fachinhaltliche Vertiefung II*. Its main rational is to give you the opportunity to delve into a exciting topic of your choice. You will 
+This course is part of either *Fachinhaltliche Vertiefung I* or *Fachinhaltliche Vertiefung II*. Its main rational is to give you the opportunity to delve into an exciting topic of your choice. You will 
 
 - present this topic to your peers (30% of your mark)
 - write a critical literature review on it (70% of your mark)
@@ -9,17 +9,17 @@ This course is part of either *Fachinhaltliche Vertiefung I* or *Fachinhaltliche
 
 ## Intended learning outcomes
 
-- Apply structural reading (SQ4R) to scientific literature.
 - Present professionally and discuss a topic in the scope of the seminar.
 - Write a critical literature review on a topic in the scope of the seminar.
+- Apply structural reading (SQ4R) to scientific literature.
 - Apply methods of scientific writing to your seminar paper
-	- systematic literature search using data bases
+	- systematic literature search using databases
 	- selection of relevant literature
 	- summary of research results avoiding plagiarism
 	- critical evaluation
 - Give peer feedback to your peers' work professionally in written form.
 
-## Class room values
+## Classroom values
 
 - Be on time for live meetings and for submitting assignments.
 - Be prepared for an active participation (do the assignments!)

@@ -1,6 +1,6 @@
 # Helpful literature
 
-To help you writing your literature review, you should consult the suggested reading material. It will cover different aspects of writing. You can access the references via the UoC library. Be sure to activate your [VPN client](https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn) when accessing from outside the university.
+To help you to write your literature review, you should consult the suggested reading material. It will cover different aspects of writing. You can access the references via the UoC library. Be sure to activate your [VPN client](https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn) when accessing from outside the university.
 
 ## How to write a literature review
 - @Pautasso2013: Ten Simple Rules for Writing a Literature Review
