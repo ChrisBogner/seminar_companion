@@ -13,10 +13,13 @@ literature-search
 general-structure-and-length-of-your-review
 software
 plagiarism
-scientific-english
-how-to-write-clear-scientific-english
+academic-writing
+basics-of-academic-writing
+summarize-with-your-own-words
 paraphrasing-of-longer-texts
-further-reading-and-excercises
+how-to-write-clear-scientific-english
+short-guidelines
+avoid-unnecessary-complexity
 blended-learning-units
 unit-1-effective-reading
 sq4r-method
@@ -34,6 +37,6 @@ assigments
 unit-5-the-peer-review-report
 helpful-literature
 how-to-write-a-literature-review
-general-purpose-on-scientific-writing
+general-purpose-on-academic-writing
 how-to-improve-your-scientific-english
 how-to-prepare-and-give-a-good-scientific-presentation

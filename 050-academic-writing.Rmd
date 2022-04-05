@@ -1,0 +1,54 @@
+# Academic writing {#academic-writing}
+
+## Basics of academic writing
+
+Why do you write and who is your audience?
+
+### Summarize with your own words
+The goal of a review is to digest many single papers and to extract common patterns, contradictory results and in the end new inside. Don't line up paper-by-paper in your review and state single results. Read, digest, summarize and extract the information for the reader. Take her by the hand and lead her through what you have discovered in the respective field of your review.
+
+### Paraphrasing of longer texts
+You must reference every sentence you paraphrase or idea you take from others' work must. The reader should be able to distinguish between your ideas and thoughts and others' contributions. To avoid placing references after every sentence you paraphrase, you might use the following style:
+
+```{block, type = 'rmdexample'}
+Agricultural fields can be contaminated by microplastics (**reference**). Because this issue is global rather than local, **X and Y** suggest to implement a global monitoring program to tackle micropalstic contamination. We must reduce the production of one-way plastics, so **the same authors**, to decrease the formation of new microplastics in the future.
+```
+
+It is clear that all the content comes from X and Y although the reference itself appears only once in the text.
+
+Other helpful expressions for paraphrasing:
+
+- in the same article/paper
+- according to the work of $\dots$
+- our results accord well with $\dots$
+- X and Y suggest $\dots$
+- this result is also supported by X and Y (reference)
+
+**Paraphrasing of longer texts must remain an exception**. Better try to summarize the information with your own words (see above). This is exactly what a literature review is about!
+
+## How to write clear (scientific) English?
+
+### Short guidelines
+@Skern2019 wrote a nice little guide on how to improve your scientific English. I have learned a lot from him. @Skern2019 suggests 8 guidelines that will help you to write in a clear and concise way:
+
+1. Plan your writing
+2. Use a clean and legible layout
+3. Structure your text in paragraphs
+4. Write simple sentences
+5. Write positive statements
+6. Write active statements
+7. Omit unnecessary words
+8. Read, think, write, read again and think again
+
+**Excercises**
+
+Read chapter 2 in @Skern2019 and do the exercises. Compare your solutions to his suggestions.
+
+
+## Avoid unnecessary complexity
+A great source of inspiration is the work by Helen Sword. I cannot agree more with her video on how to avoid an unnecessary complexity in your writing. A must-see!
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dNlkHtMgcPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+You can check your style on Sword's site The Writer's Diet: https://writersdiet.com/.

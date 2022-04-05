@@ -14,11 +14,13 @@ Your review must be structured as follows:
 - Introduction
 - Method
 - Main part
-- Discussion
-- Conclusions
+- Discussion: Discuss critically your topic and the results you have summarized in the Main part. The focus is not on rating the papers, but on critical assessment of their content. Answer your research questions!
+- Conclusions: Summary and take-home messages.
 - References
 
-Your review should be between 3000 and 4000 words in the main part (i.e. without abstract, table of contents, references etc.). 
+If you use many abbreviations, put a list of abbreviations after the key words.
+
+Your review should be between 3000 and 4000 words in the main part (i.e. without abstract, table of contents and references). 
 
 ## Software {#software}
 You can select any free or commercial word processing software, e.g. [Libre Office](https://www.libreoffice.org/), [Open Office](http://www.openoffice.org/de/), [LaTeX](https://www.latex-project.org/) or [Word](https://rrzk.uni-koeln.de/software-multimedia/software/rahmenvertraege-und-campuslizenzen/microsoft/office-fuer-studierende). However, be sure to correctly **connect your word processor to your bibliography manager**. Do not copy and paste references manually because this is very error prone and you risk to forget citations.
