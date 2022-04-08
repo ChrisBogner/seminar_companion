@@ -5,13 +5,15 @@ subtitle: "Seminar summer term 2022"
 author: "Christina Bogner"
 date: "Last updated: `r format(Sys.time(), '%Y-%m-%d')`"
 site: bookdown::bookdown_site
-#output: bookdown::gitbook
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa-annotated-bibliography.csl
 link-citations: true
+#lang: en-GB
+#zotero: true
 github-repo: https://github.com/ChrisBogner/seminar_companion.git
-description: "This is companion book for the seminars of the working group Ecosystem Research"
+description: "This is companion book for the seminars of Ecosystem Research Group"
 ---
 
 # Prerequisites {.unnumbered}

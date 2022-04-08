@@ -33,7 +33,7 @@ unit-4-plagiarism
 what-is-plagiarism-and-how-to-avoid-it
 paraphrasing
 common-knowledge
-assigments
+assignments-2
 unit-5-the-peer-review-report
 helpful-literature
 how-to-write-a-literature-review
