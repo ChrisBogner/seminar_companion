@@ -62,7 +62,7 @@ Not every idea you use in your paper needs to be cited. Common knowledge does no
 
 - https://sustainabledevelopment.un.org/: The 17 Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015 and aim at improving living condition by 2030 while protecting the environment.
 
-- https://sustainabledevelopment.un.org/sdg5: Sustainable Development Goal 5: Achieve gender equality and empower all women and girl.
+- https://sustainabledevelopment.un.org/sdg5: Sustainable Development Goal 5: Achieve gender equality and empower all women and girls.
 
 
 ## Unit 5: The peer review report
