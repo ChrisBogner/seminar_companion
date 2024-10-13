@@ -1,7 +1,7 @@
 --- 
 knit: "bookdown::render_book"
 title: "Current Topics in Ecosystem Research"
-subtitle: "Seminar summer term 2022"
+subtitle: "Seminar summer term 2023"
 author: "Christina Bogner"
 date: "Last updated: `r format(Sys.time(), '%Y-%m-%d')`"
 site: bookdown::bookdown_site
@@ -18,9 +18,9 @@ description: "This is companion book for the seminars of Ecosystem Research Grou
 
 # Prerequisites {.unnumbered}
 
-```{block, type='rmdinfo'}
-The corona virus pandemic still impacts our lives and changes the way we teach and learn. This course will be held in person, I hope we are back to nearly normal. We learnt a lot during the online-teaching phase and some of the tools proved useful. Thus, I will try to move some of them into the in-person phase.
-```
+<!-- ```{block, type='rmdinfo'} -->
+<!-- The corona virus pandemic still impacts our lives and changes the way we teach and learn. This course will be held in person, I hope we are back to nearly normal. We learnt a lot during the online-teaching phase and some of the tools proved useful. Thus, I will try to move some of them into the in-person phase. -->
+<!-- ``` -->
 
 In this seminar we will use different tools for communication:
 

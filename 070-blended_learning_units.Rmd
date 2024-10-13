@@ -17,14 +17,13 @@ Watch the video introducing the [SQ4R method](https://www.youtube.com/embed/ziof
 Refer to chapter [Software](#software) and install the reference management software. I recommend Zotero and can provide some support in case of major issues.
 
 ### Data base Web of Science
-Start by an overview of Web of Science (WoS): http://clarivate.libguides.com/webofscienceplatform. 
-Then, watch the videos on 
+Start by an overview of Web of Science (WoS): https://clarivate.com/webofsciencegroup/support/wos/ or https://clarivate.com/webofsciencegroup/support/wos/wos-core-collection/. 
 
-- How to [create a profile](https://www.youtube.com/embed/H5Rw7iHEYOw). This allows you to save your searches and access from outside the UoC for 6 months.
+- Then, watch the video on how to [create an account](https://clarivate.com/webofsciencegroup/support/wos/).
 
-- Once you have registered and created a profile, start to search for literature. You can use [marked lists](https://youtu.be/Zs8lGMMimNQ?list=PLScSkCQ_d7EOSU6n682bwjTC6GjY_ihmM) and [save them](https://youtu.be/tbAYhRZZz_c?list=PLScSkCQ_d7EOSU6n682bwjTC6GjY_ihmM) and [export records](https://youtu.be/V53e-pG2NmY?list=PLScSkCQ_d7EOSU6n682bwjTC6GjY_ihmM).
+- Once you have registered and created an account, start to search for literature. Learn how to use marked lists. Either watch the basic introduction video or check in the support for [marked lists](https://support.clarivate.com/ScientificandAcademicResearch/s/article/Web-of-Science-Using-the-Marked-List-Feature?language=en_US).
 
-- You can also [combine different keywords](https://www.youtube.com/embed/xwhy0JBHlMw) for an effective search.
+- You can also combine [different keywords](https://youtu.be/8Ews2LPOY1s) for an effective search.
 
 
 ### Assignments
@@ -41,7 +40,7 @@ Do the module [Your role as a peer reviewer](https://masterclasses.nature.com/fo
 
 ## Unit 4: Plagiarism
 ### What is plagiarism and how to avoid it
-There are many ways to define plagiarism. However, they all include basically the same aspects. Read the definition of plagiarism from the Appendix H in @Darr2019: "Combating Plagiarism: a Hands-On Guide for Librarians, Teachers, and Students". You can access the whole book [here](https://ebookcentral.proquest.com/lib/ubkoeln/detail.action?docID=5896173). Don't forget to activate your VPN client when accessing from outside the UoC.
+There are many ways to define plagiarism. However, they all include basically the same aspects. Read the definition of plagiarism from the Appendix H in @Darr2019: "Combating Plagiarism: a Hands-On Guide for Librarians, Teachers, and Students" (uploaded on ILIAS). You can access the whole book [here](https://ebookcentral.proquest.com/lib/ubkoeln/detail.action?docID=5896173). You have to create an account first and then to sign in. Don't forget to activate your VPN client when accessing from outside the UoC.
 
 ### Paraphrasing
 A crucial step in avoiding plagiarism is to learn to paraphrase the original source correctly and give a correct citation. While citing correctly is largely facilitated by the reference management software, paraphrasing has to be practised.
@@ -50,7 +49,7 @@ A crucial step in avoiding plagiarism is to learn to paraphrase the original sou
 Not every idea you use in your paper needs to be cited. Common knowledge does not need any reference. However,  you cannot copy it verbatim. Thus, it is important to learn to distinguish between citable information (that will be either paraphrased or quoted) and common knowledge. What constitutes common knowledge, can depend on the context and the audience you address. In our case, you can consider your audience to be (reasonably well) educated science graduates.
 
 ### Assignments
-1. Read pp. 17--22 in Chapter 2 "Paraphrasing and Micro-Paraphrasing" by @Darr2019 using the SQ4R method and take notes. Bring your notes to the next class.
+1. Read pp. 17--22 in Chapter 2 "Paraphrasing and Micro-Paraphrasing" by @Darr2019 (uploaded on ILIAS) using the SQ4R method and take notes. Bring your notes to the next class.
 
 1. Look at the following examples and decide whether the information (i) constitutes common knowledge and only needs to be paraphrased, (ii) should be paraphrased and cited or (iii) quoted directly and cited. For every example, write a justification and submit it to ILIAS.
 
