@@ -1,0 +1,62 @@
+# Blended learning units
+
+<!-- ## Unit 1: Effective reading -->
+
+<!-- ### SQ4R method -->
+<!-- Watch the video introducing the [SQ4R method](https://www.youtube.com/embed/ziofH7N8ZOE) for effective reading. -->
+
+<!-- ### Assignments -->
+<!-- 1. Answer the Quiz on ILIAS. -->
+
+<!-- 1. Read [Part III: Writing a Literature Review](JYI_Guide_to_Scientific_Writing.pdf) from the Journal of Young Investigators [@JournalofYoungInvestigators2005] using the SQ4R method. Then, upload your SQ4R notes on ILIAS. -->
+
+
+## Literature search {#lit-search}
+
+### Install a reference management software
+Refer to chapter [Software](#software) and install the reference management software. I recommend Zotero and can provide some support in case of major issues.
+
+### Data base Web of Science
+Start by an overview of Web of Science (WoS): https://clarivate.com/webofsciencegroup/support/wos/ or https://clarivate.com/webofsciencegroup/support/wos/wos-core-collection/. 
+
+- Then, create an account [create an account](https://www.youtube.com/watch?v=kj52VKHtmBQ).
+
+- Once you have registered and created an account, start to search for literature. Learn how to use marked lists. Either watch the [basic introduction course](https://clarivate.com/academia-government/training-support/web-of-science-platform/) or check in the support for [marked lists](https://www.youtube.com/watch?v=IfVSSIINzag).
+
+- You can also combine [different keywords](https://webofscience.zendesk.com/hc/en-us/articles/20130361503249-Advanced-Search-Query-Builder#h_01HF6MRQ5SQS874SZ27Q07DXPM) for an effective search.
+
+
+### Assignments
+1. Create a new library (or collection in case you use Zotero) in your reference management software.
+
+1. Search WoS for at least 3 relevant publications on your seminar topic.
+
+1. Upload a screenshot of your bibliography in ILIAS.
+
+
+
+## Plagiarism
+### What is plagiarism and how to avoid it
+There are many ways to define plagiarism. However, they all include basically the same aspects. Read the definition of plagiarism from the Appendix H in @Darr2019: "Combating Plagiarism: a Hands-On Guide for Librarians, Teachers, and Students" (uploaded on ILIAS). You can access the whole book [here](https://ebookcentral.proquest.com/lib/ubkoeln/detail.action?docID=5896173). You have to create an account first and then to sign in. Don't forget to activate your VPN client when accessing from outside the UoC.
+
+### Paraphrasing
+A crucial step in avoiding plagiarism is to learn to paraphrase the original source correctly and give a correct citation. While citing correctly is largely facilitated by the reference management software, paraphrasing has to be practised.
+
+### Common knowledge
+Not every idea you use in your paper needs to be cited. Common knowledge does not need any reference. However,  you cannot copy it verbatim. Thus, it is important to learn to distinguish between citable information (that will be either paraphrased or quoted) and common knowledge. What constitutes common knowledge, can depend on the context and the audience you address. In our case, you can consider your audience to be (reasonably well) educated science graduates.
+
+### Assignments
+1. Read pp. 17--22 in Chapter 2 "Paraphrasing and Micro-Paraphrasing" by @Darr2019 (uploaded on ILIAS) using the SQ4R method and take notes. Bring your notes to the next class.
+
+1. Look at the following examples and decide whether the information (i) constitutes common knowledge and only needs to be paraphrased, (ii) should be paraphrased and cited or (iii) quoted directly and cited. For every example, write a justification and submit it to ILIAS.
+
+- Bogner (2014): Landslides are a ubiquitous phenomenon in mountainous regions.
+
+- Bogner (2014): Image indices are real-valued functions in the range [0, 1] that calculate certain properties of binary images and thus provide quantitative information about the morphology of flow patterns.
+
+- Nülle (2014): Following the invention of the first modern plastic “Bakelit” in 1907, inexpensive high-volume manufacturing techniques were developed.
+
+- https://sustainabledevelopment.un.org/: The 17 Sustainable Development Goals (SDGs) were adopted by all United Nations Member States in 2015 and aim at improving living condition by 2030 while protecting the environment.
+
+- https://sustainabledevelopment.un.org/sdg5: Sustainable Development Goal 5: Achieve gender equality and empower all women and girls.
+

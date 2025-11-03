@@ -1,0 +1,44 @@
+project:
+  type: book
+  output-dir: docs
+
+  
+book: 
+  title: "Current Topics in Ecosystem Research"
+  author: "Christina Bogner"
+  date: last-modified
+  language: "en"
+  chapters: 
+    - index.qmd
+    - 010-intro.qmd
+    - 030-lit-review.qmd
+    - 070-blended-learning-units.qmd
+  page-navigation: true
+  downloads: [pdf, epub]
+  sidebar:
+    style: docked
+    background: light
+
+resources:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
+    
+#bibliography: ['statistik_und_datenanalyse.bib', '../../../Kurse/Literatur/IMS_book.bib', '../../../Kurse/Literatur/eoce.bib']
+
+#language: _language-de.yml
+
+
+
+format:
+  html:
+    theme: cosmo
+    code-copy: true
+    css:
+      - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
+      - stat_style.css  # your file
+    df-print: paged
+  pdf:
+    documentclass: scrreport
+    title: "Current Topics in Ecosystem Research"
+  epub:
+    title: "Current Topics in Ecosystem Research"
+

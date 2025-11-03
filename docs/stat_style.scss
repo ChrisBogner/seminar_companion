@@ -1,0 +1,293 @@
+/*-- scss:defaults --*/
+
+.reveal .initialize{
+    width: '100%';
+    height: '100%';
+    margin: 0;
+    minScale: 1;
+    maxScale: 1;
+}
+
+$link-color: #e69138;
+$presentation-heading-color: #2986cc;
+$code-block-bg: #ffffff;
+$code-block-border-color: #000000;
+$code-block-font-size: 1em;
+$presentation-font-size-root: 18pt;
+$presentation-font-smaller: 0.8;
+$presentation-h1-font-size: 2.5em;
+$presentation-h2-font-size: 1.6em;
+
+/*-- scss:rules --*/
+
+.reveal .footer {
+    display: block;
+    position: fixed;
+    font-size: 0.35em !important;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    bottom: 0px !important; // Makes footer div flush with bottom of slide
+    width: 100%;
+    z-index: 2 !important; // Sets the footer div further down the z-index
+  }
+
+.reveal .title-slide {
+  data-visibility: uncounted;
+}
+
+.reveal .slide-number {
+  color: $link-color;
+}
+
+.blackbox {
+  color: #000000;
+  background-color: transparent;
+  position: relative;
+  margin: 1px;
+  padding: 5px 2px 5px 2px;
+  border: 2px solid;
+}
+
+.v-center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+body {
+  font-size: 36px;
+}
+
+caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/* definition */
+
+
+.definition {
+  padding: 1em 1em 0.5em 5em;
+  background: #f0ffe6;
+  position: relative;
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-bottom: 24px;
+}
+
+.definition:before {
+  content: "Definition";
+  clear: right;
+  display: block;
+  font-weight: bold;
+ }
+
+.definition:after {
+  content: "\f059";
+  font-family: FontAwesome;
+  left:10px;
+  position:absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  font-size: 45px;
+ }
+
+/* question */
+
+
+.question {
+  padding: 1em 1em 0.5em 5em;
+  background: #f0ffe6;
+  position: relative;
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-bottom: 24px;
+}
+
+.question:before {
+  content: "Übungshäppchen";
+  clear: right;
+  display: block;
+  font-weight: bold;
+ }
+
+.question:after {
+  content: "\f059";
+  font-family: FontAwesome;
+  left:10px;
+  position:absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  font-size: 45px;
+ }
+
+.rmdcomment {
+  padding: 1em 1em 0.5em 5em;
+  background: #f5f5f5;
+  position:relative;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.rmdcomment:before {
+    content: "\f075";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    font-size: 45px;
+ }
+
+.rmdinfo {
+  padding: 1em 1em 0.5em 5em;
+  background: #e6f0ff;
+  position:relative;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.rmdinfo:before {
+    content: "\f05a";
+    font-family: FontAwesome;
+    left:10px;
+    position:absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    font-size: 45px;
+ }
+
+
+.rmdexample {
+  padding: 1em 1em 0.5em 5em;
+  background: #f0ffe6;
+  position:relative;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.rmdexample:before {
+    content: "\f055";
+    font-family: FontAwesome;
+    left: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    font-size: 45px;
+ }
+
+ .rmdoutcomes {
+  padding: 1em 1em 0.5em 5em;
+  background: #ffebcd;
+  position:relative;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.rmdoutcomes:before {
+    content: "\f4d8";
+    font-family: FontAwesome;
+    font-weight: 900;
+    left: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    font-size: 45px;
+ }
+
+.def {
+  padding: 1em 1em 0.5em 5em;
+  background: #ffe1b4;
+  position:relative;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.def:before {
+    content: "\f13d";
+    font-family: FontAwesome;
+    font-weight: 900;
+    left: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    font-size: 45px;
+ }
+
+.alert {
+  padding: 1em 1em 0.5em 5em;
+  background: #ffe6f0;
+  position:relative;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.alert:before {
+    content: "\f06a";
+    font-family: FontAwesome;
+    font-weight: 900;
+    left: 10px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+    font-size: 45px;
+ }
+
+.exercises {
+  clear: both;
+  list-style: none;
+}
+
+.exercises ol {
+   counter-reset: inst;
+}
+
+.exercises ol {
+    margin-left:-10px; /* Remove the default left margin */
+    padding-left:0; /* Remove the default left padding */
+}
+.exercises ol > li {
+    position:relative; /* Create a positioning context */
+    margin:0 0 10px 0; /* Give each list item a left margin to make room for the numbers */
+    padding:30px 10px 0 20px; /* Add some spacing around the content: top, right, bottom, left */
+    list-style:none; /* Disable the normal item numbering */
+    border-top:2px solid #c9743d;
+    background:#f8ede6;
+    border-radius: 10px;
+}
+
+.exercises ol > li::before {
+  content: "Aufgabe " counter(inst);  /* Use the counter as content */
+
+  counter-increment: inst 1; /* Increment the counter by 1 */
+    /* Position and style the number */
+    position:absolute;
+    top:-2px;
+    left:-1em;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    width:7em;
+    /* Some space between the number and the content in browsers that support
+       generated content but not positioning it (Camino 2 is one example) */
+    margin-right:4px;
+    padding:1px;
+    border-top:2px solid #c9743d;
+    color:#fff;
+    background:#c9743d;
+    font-weight:bold;
+    font-family:"Helvetica Neue", Arial, sans-serif;
+    text-align:center;
+}
+
