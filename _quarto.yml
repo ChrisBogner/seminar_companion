@@ -13,6 +13,7 @@ book:
     - 010-intro.qmd
     - 030-lit-review.qmd
     - 070-blended-learning-units.qmd
+    - references.qmd
   page-navigation: true
   downloads: [pdf, epub]
   sidebar:
@@ -22,7 +23,7 @@ book:
 resources:
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
     
-#bibliography: ['statistik_und_datenanalyse.bib', '../../../Kurse/Literatur/IMS_book.bib', '../../../Kurse/Literatur/eoce.bib']
+bibliography: ['book.bib', 'packages.bib']
 
 #language: _language-de.yml
 
