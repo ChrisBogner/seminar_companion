@@ -3,3 +3,12 @@ language:
   ui:
     chapter_name: "Chapter "
 delete_merged_file: true
+rmd_files: ["index.Rmd",
+"010-intro.Rmd",
+"020-presentation.Rmd",
+# "030-lit-review.Rmd",
+# "050-academic-writing.Rmd",
+"070-blended-learning-units.Rmd",
+# "080-literature.Rmd",
+"099-references.Rmd"]
+before_chapter_script: ["helper_functions.R"]

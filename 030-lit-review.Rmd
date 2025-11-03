@@ -1,7 +1,7 @@
 # Literature review
 
 ## Literature search
-Use the literature database [Web of Science](https://apps.webofknowledge.com/) or [Google Scholar](https://scholar.google.com/) to find your literature. You will have a blended learning unit on how to use the databases. For [Web of Science](https://apps.webofknowledge.com/), either create an account and link it to UoC or activate your [VPN client](https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn) when accessing from outside the university.
+Use the literature database [Web of Science](https://apps.webofknowledge.com/) or [Google Scholar](https://scholar.google.com/) to find your literature. You will have a blended learning unit on how to use the databases. For [Web of Science](https://apps.webofknowledge.com/), either [create an account](https://webofscience.zendesk.com/hc/en-us/articles/20011617329425-Registering-and-Signing-in-to-the-Web-of-Science#h_01K209WP4SJAK2A3XA0WC1SZNZ) and link it to UoC or activate your [VPN client](https://rrzk.uni-koeln.de/internetzugang-web/netzzugang/vpn) when accessing from outside the university.
 
 ## General structure and length of your review
 
